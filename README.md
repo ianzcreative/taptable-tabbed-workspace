@@ -1,7 +1,7 @@
 **The Ultimate Menu Builders for Filament.**
 Turn messy sidebars into sleek, app-like workstations. Mix Resources, Charts, Livewire Forms, and Blade Views in a single, state-isolated page.
 
-![TapTable - Tabbed Workspace Plugin Banner]([docs/images/taptable-banner.png](https://creator.ianstudios.id/storage/docs-images/01KFCSRW46MXDVYX6M8MWG6XKA.png))
+![TapTable - Tabbed Workspace Plugin Banner](https://creator.ianstudios.id/storage/docs-images/01KFCSRW46MXDVYX6M8MWG6XKA.png)
 
 ---
 
