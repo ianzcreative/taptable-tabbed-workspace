@@ -58,7 +58,7 @@ composer config http-basic.taptable.creator.ianstudios.id license YOUR_LICENSE_K
 Run the composer require command:
 
 ```bash
-composer require ianstudios/tap-table
+composer require ianstudios/taptable
 ```
 
 ---
