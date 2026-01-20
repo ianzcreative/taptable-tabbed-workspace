@@ -256,6 +256,6 @@ TapTable already provides the layout wrapper. Including it again will result in 
 
 * **Price:** Starting from (**€24**) (One-time payment)
 * **License Type:** Perpetual Commercial License.
-* **Usage:** Single to Unlimited projects for the license holder.
+* **Usage:** Two to Unlimited projects for the license holder.
 
 *Copyright © Ianstudios. All rights reserved.*
